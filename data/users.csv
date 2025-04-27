@@ -1,0 +1,5 @@
+name.firstName,name.lastName,age,address.line1,address.line2,address.city,address.state,gender,contact.phone
+Rohit,Prasad,35,A-563 Rakshak Society,New Pune Road,Pune,Maharashtra,Male,9876543210
+Ayesha,Khan,22,202 Green Plaza,Baner,Pune,Maharashtra,Female,8765432109
+Ravi,Sharma,17,101 Tech Hub,Hinjewadi,Pune,Maharashtra,Male,7654321098
+John,Doe,61,50 Old Street,East Wing,Mumbai,Maharashtra,Male,6543210987
